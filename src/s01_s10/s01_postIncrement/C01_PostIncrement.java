@@ -4,7 +4,7 @@ public class C01_PostIncrement {
 
     public static void main(String[] args) {
 
-        int num1=9;
+        int num1=5;
 
         int num2= num1++;
 
